@@ -1,2 +1,2 @@
-# 화면에 'Hello, World!'를 출력합니다.
+# 화면에 'Hello, World!'를 출력
 print("Hello, World!")
